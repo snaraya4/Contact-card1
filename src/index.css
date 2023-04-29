@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  align-items:center;
+  font-family: 'Inter', sans-serif;
+  background-color: whitesmoke;
+}
+.App{
+ position: 100px 50px;
+
+}
+.contact-card {
+  transform: translate(50%, 25%);
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding:50px; 
+  align-self: center;
+  background-color: white;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.contact-card>img{
+  width: 100%;
+  height: auto;
+}
+
+.contact-card > h3 {
+  font-weight: 700;
+  font-size: 30px;
+  align-self: center;
+}
+
+.info-group {
+  display: flex;
+  align-items: center;
+}
+.info-group>a {
+  text-decoration: none;
+  color: inherit;
+  outline: none;
+}
+.info-group:hover {
+  cursor: pointer;
+}
+
+.info-group > img {
+  height: 20px;
+  margin-right: 8px;
+}
+
+.info-group > p {
+  margin-block: 3px;
+  font-size: 18px;
+  color: #2B283A;
+}
+
+
+
+
