@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Contact-card1/static/css/main.4afcc99a.css",
+    "main.js": "/Contact-card1/static/js/main.d585f688.js",
+    "static/media/icons8-female-user-1500.png": "/Contact-card1/static/media/icons8-female-user-1500.295375f0b07dc32e437a.png",
+    "index.html": "/Contact-card1/index.html",
+    "main.4afcc99a.css.map": "/Contact-card1/static/css/main.4afcc99a.css.map",
+    "main.d585f688.js.map": "/Contact-card1/static/js/main.d585f688.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4afcc99a.css",
+    "static/js/main.d585f688.js"
+  ]
+}
